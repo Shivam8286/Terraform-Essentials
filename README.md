@@ -150,13 +150,15 @@ output "bucket_name" {
     terraform init
     ```
     This downloads the necessary plugins and configures the backend.
+   <img width="863" height="509" alt="Image" src="https://github.com/user-attachments/assets/f5cf027b-94a2-4cb8-bf09-19b792694cdc" />
 
-2. **Review the planned changes:**
+
+3. **Review the planned changes:**
     ```sh
     terraform plan
     ```
 
-3. **Apply the configuration:**
+4. **Apply the configuration:**
     ```sh
     terraform apply
     ```
@@ -192,7 +194,6 @@ Type `yes` to confirm.
 
 **Happy automating with Terraform!**
 <img width="893" height="369" alt="Image" src="https://github.com/user-attachments/assets/ac342cca-ccfd-4158-a4bc-6c0b129c9c33" />
-<img width="863" height="509" alt="Image" src="https://github.com/user-attachments/assets/f5cf027b-94a2-4cb8-bf09-19b792694cdc" />
 <img width="908" height="442" alt="Image" src="https://github.com/user-attachments/assets/153f8b40-efc3-494a-b37f-456742dce648" />
 <img width="888" height="576" alt="Image" src="https://github.com/user-attachments/assets/dc35f4ba-2092-4ae3-b1a8-70f94670300d" />
 <img width="781" height="252" alt="Image" src="https://github.com/user-attachments/assets/eb5c05a1-27f6-45c7-aff4-3a99ca709c74" />
