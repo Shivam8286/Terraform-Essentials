@@ -159,13 +159,14 @@ output "bucket_name" {
     ```sh
     terraform plan
     ```
+    
+   <img width="888" height="576" alt="Image" src="https://github.com/user-attachments/assets/dc35f4ba-2092-4ae3-b1a8-70f94670300d" />
 
 4. **Apply the configuration:**
     ```sh
     terraform apply
     ```
     Type `yes` to confirm.
-   <img width="888" height="576" alt="Image" src="https://github.com/user-attachments/assets/dc35f4ba-2092-4ae3-b1a8-70f94670300d" />
 
 
 ---
