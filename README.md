@@ -167,7 +167,8 @@ output "bucket_name" {
     terraform apply
     ```
     Type `yes` to confirm.
-
+<img width="893" height="369" alt="Image" src="https://github.com/user-attachments/assets/ac342cca-ccfd-4158-a4bc-6c0b129c9c33" />
+<img width="781" height="252" alt="Image" src="https://github.com/user-attachments/assets/eb5c05a1-27f6-45c7-aff4-3a99ca709c74" />
 
 ---
 
@@ -198,5 +199,4 @@ Type `yes` to confirm.
 ---
 
 **Happy automating with Terraform!**
-<img width="893" height="369" alt="Image" src="https://github.com/user-attachments/assets/ac342cca-ccfd-4158-a4bc-6c0b129c9c33" />
-<img width="781" height="252" alt="Image" src="https://github.com/user-attachments/assets/eb5c05a1-27f6-45c7-aff4-3a99ca709c74" />
+
